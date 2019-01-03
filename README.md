@@ -1,0 +1,1 @@
+# 27.mengetahui-kuadran-satu-koordinat
